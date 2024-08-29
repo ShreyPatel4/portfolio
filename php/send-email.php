@@ -1,7 +1,8 @@
 <?php
 
+// composer require phpmailer/phpmailer
 // Replace this with your own email address
-$to = 'joefrey.mahusay@gmail.com';
+$to = 'patel.shrey4@northeastern.edu';
 
 function url(){
   return sprintf(
