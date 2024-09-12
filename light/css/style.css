@@ -206,6 +206,10 @@ a, a:hover {
   color: #D63447;
 }
 
+.unslate_co--site-nav-nws-ltr .unslate_co--site-logo-nltr span {
+  color: #D63447;
+}
+
 .unslate_co--site-nav .site-nav-ul, .unslate_co--site-nav .site-nav-ul-none-onepage {
   text-align: center;
 }
